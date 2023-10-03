@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "487306921377",
+    "project_id": "instragram-tut-5ce38",
+    "storage_bucket": "instragram-tut-5ce38.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:487306921377:android:301de480d0043af49477e0",
+        "android_client_info": {
+          "package_name": "com.example.instragram_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCligA5ROMoNcmFOE1uOW46JFkpK0YxJ8s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
